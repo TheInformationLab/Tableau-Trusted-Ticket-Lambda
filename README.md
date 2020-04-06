@@ -11,6 +11,7 @@ Node JS Serverless Proxy for Tableau Server Trusted Ticket authentication allowi
 
 1. Using the [Serverless Framework](https://serverless.com/) with AWS - but you should be able to implement it with any Cloud Provider
 2. Clone repo `git clone https://github.com/TheInformationLab/Tableau-Trusted-Ticket-Lambda`
+3. Rename serverless_dev.yml to serverless.yml (so remove the \_dev), populate it with your org ID and app name
 
 ## Configure Tableau Server
 
