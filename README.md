@@ -1,4 +1,4 @@
-# Tableau Trusted Ticket Proxy Implementation for Serverless Functions
+# Tableau Trusted Ticket Proxy with Serverless Function
 
 Lambda Proxy implementation of Trusted Tickets in Tableau.
 Original author [Craig Bloodworth](https://github.com/TheInformationLab/TableauTrustedTicketProxy)
